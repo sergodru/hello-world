@@ -1,2 +1,3 @@
 # hello-world
-for learning and tests
+
+This is a thing for learning and tests. Yeah
